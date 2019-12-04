@@ -1,1 +1,2 @@
-# kata
+# My Daily Kata
+
