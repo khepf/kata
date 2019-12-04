@@ -1,2 +1,2 @@
-# My Daily Kata
+# My Daily Kata Dojo
 
